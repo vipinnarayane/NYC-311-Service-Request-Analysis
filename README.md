@@ -44,7 +44,7 @@ The project follows a structured workflow to ensure a thorough analysis of the d
 - **Approach**: Grouped the data by complaint type and calculated the frequency of each type.
 - **Outcome**: Identified the top 10 most common complaint types in the NYC 311 dataset.
 
- ![Top-10Complaint](https://github.com/user-attachments/assets/a0200482-d741-4d51-a89b-445f54885bf4)
+   ![Top-10Complaint](https://github.com/user-attachments/assets/a0200482-d741-4d51-a89b-445f54885bf4)
 
 
 ### 4. Visualize the Complaint Types
