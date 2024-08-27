@@ -36,6 +36,8 @@ The project follows a structured workflow to ensure a thorough analysis of the d
   - **Approach**: Used Pandas to merge and display complaint types alongside the city information.
   - **Outcome**: Created a dataset that pairs complaint types with the cities where they were reported, providing more context to the analysis.
 
+  ![image](https://github.com/user-attachments/assets/5047d82c-75d2-4154-b635-565a8b1eeb5e)
+
 ### 3. Identify Major Complaint Types
 
 - **Task**: Determine the most common types of complaints reported in NYC.
