@@ -44,17 +44,26 @@ The project follows a structured workflow to ensure a thorough analysis of the d
 - **Approach**: Grouped the data by complaint type and calculated the frequency of each type.
 - **Outcome**: Identified the top 10 most common complaint types in the NYC 311 dataset.
 
+ ![Top-10Complaint](https://github.com/user-attachments/assets/a0200482-d741-4d51-a89b-445f54885bf4)
+
+
 ### 4. Visualize the Complaint Types
 
 - **Task**: Create visualizations to illustrate the frequency of the most common complaint types.
 - **Approach**: Used Matplotlib to plot a bar graph showing the count of each complaint type.
 - **Outcome**: Generated a clear and informative bar graph displaying the top 10 complaint types and their respective counts.
 
+ ![image](https://github.com/user-attachments/assets/4636c49a-cc17-4581-bd66-712a8d6f6abd)
+
+
 ### 5. Display the Major Complaint Types and Their Counts
 
 - **Task**: Provide a detailed view of the most frequent complaint types and their corresponding counts.
 - **Approach**: Visualize the data using Matplotlib and Seaborn to create plots that emphasize the distribution of complaints.
 - **Outcome**: Produced visualizations that clearly represent the prevalence of various complaint types, making it easier to draw insights from the data.
+
+  ![image](https://github.com/user-attachments/assets/3f4de8c9-c4d0-45a7-8430-f3ab5448ac13)
+
 
 ## Tools and Libraries Used
 
