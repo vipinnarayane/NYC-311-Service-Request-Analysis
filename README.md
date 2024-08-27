@@ -57,10 +57,7 @@ The project follows a structured workflow to ensure a thorough analysis of the d
 ## Tools and Libraries Used
 
 - **Pandas**: For data manipulation and analysis.
-- **NumPy**: For numerical computations.
 - **Matplotlib**: For data visualization.
-- **Seaborn**: For enhanced visualizations.
-- **scikit-learn**: For additional data processing and analysis.
 
 ## Conclusion
 
